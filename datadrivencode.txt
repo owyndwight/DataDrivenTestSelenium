@@ -1,0 +1,26 @@
+@Parameters
+//	public static Collection<String[]> testData(){
+//		return Arrays.asList(new String[][] {
+//			{"edgewords", "edgewords123"},
+//			{"webdriver", "edgewords123"}
+//		});
+//	}
+	
+//	public static Collection<String[]> getTestData(String fileName)
+//			throws IOException {
+//		List<String[]> records = new ArrayList<String[]>();
+//		String record;
+//		BufferedReader file = new BufferedReader(new FileReader(fileName));
+//			
+//		while ((record = file.readLine()) != null) {
+//			String fields[] = record.split(",");
+//			records.add(fields);
+//		}
+//		file.close();
+//		return records;
+//	}
+	
+//	@Parameters
+//	public static Collection<String[]> testData() throws IOException{
+//		return getTestData("C:\\Users\\edgewords\\Desktop\\testdata.csv");
+//	}
